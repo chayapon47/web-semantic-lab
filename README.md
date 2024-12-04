@@ -4,3 +4,6 @@
 - การใช้ Semantic HTML
 - Form Validation
 - ARIA Labels
+## git command used in this lab
+git clone https://github.com/chayapon47/web-semantic-lab
+git commit -m "readme"
